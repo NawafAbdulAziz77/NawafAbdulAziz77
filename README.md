@@ -16,8 +16,8 @@ Perjalanan saya dalam ilmu komputer telah menumbuhkan minat yang besar dalam kea
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analisis dan Mitigasi Ancaman  | <a href="https://google.com">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
-| Penetration Testing | <a href="https://google.com">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
+| Analisis dan Mitigasi Ancaman  | <a href="https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
+| Penetration Testing | <a href="[https://google.com](https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot)">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
 
 
 ## Tools

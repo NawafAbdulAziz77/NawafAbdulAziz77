@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQFMgn9amiccgA/profile-displayphoto-shrink_800_800/0/1663127070864?e=1722470400&v=beta&t=9CEWeEpB-geBXzSHmFRn9GvjXKxP5CvycUO7xJmChnc"  />
-</div>
 <h1 align="center">SELAMAT DATANG</h1>
 
 ###
@@ -17,8 +14,8 @@ Perjalanan saya dalam ilmu komputer telah menumbuhkan minat yang besar dalam kea
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analisis dan Mitigasi Ancaman  | <a href="https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
-| Penetration Testing | <a href="[https://google.com](https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot)">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
-
+| Penetration Testing | <a href="https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
+| Capstone Project Studi Independen | <a href="https://github.com/NawafAbdulAziz77/Capstone-Project-Studi-Independen"> Analisis Kerentanan Di Website Online Shop</a>|
 
 ## Tools
 
@@ -61,7 +58,19 @@ Perjalanan saya dalam ilmu komputer telah menumbuhkan minat yang besar dalam kea
 <a href="https://drive.google.com/file/d/1P3xfV6gsZKSRgeWZG15YHJzLaHrtCWyf/view">
     <img src="https://img.shields.io/badge/-Be%20Cyber-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+<a href="https://drive.google.com/file/d/1O0XXQ4_PeZoNHFf70T8faowVWonMSG20/view" target="_blank">
+    <img src="https://img.shields.io/badge/-Cyber%20Security%20For%20Everyone:%20Basic%20Modern%20Practices%20for%20Modern%20Attack%20Protection-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/116DPJsDjUu9rjPJLHBQ_AIk4ccQdb8er/view" target="_blank">
+    <img src="https://img.shields.io/badge/-Introduction%20to%20Information%20Security-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1i6MynRT1mGZgmoQFnjZnX8xWyU_hKONh/view" target="_blank">
+    <img src="https://img.shields.io/badge/-MSIB%20BATCH%206%20Digital%20Creative,%20Data,%20Cyber%20Security,%20and%20Artificial%20Intelligence-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+
 </div>
 
 ## Projects
 - Intrusion Prevention System, Intrusion Detection System and Honeypot
+- Analisis Kerentanan Di Website Online Shop

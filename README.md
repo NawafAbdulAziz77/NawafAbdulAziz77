@@ -3,22 +3,28 @@
 ###
 
 # Hallo saya Nawaf Abdul Aziz
-Saya adalah mahasiswa dari Politeknik Negeri Semarang dengan latar belakang dalam bidang Teknologi Informasi. Ketertarikan saya yang mendalam pada Cyber Security telah mendorong saya untuk mengejar pengetahuan dan keterampilan di bidang ini dengan semangat yang tinggi. Saya berdedikasi untuk mengasah kemampuan saya dalam menghadapi tantangan kompleks di dunia Cyber Security. Selain itu, saya selalu berusaha mengikuti perkembangan terbaru dan berpartisipasi dalam berbagai proyek serta pelatihan yang dapat memperkuat kompetensi saya. Dengan tekad dan komitmen yang kuat, saya siap berkontribusi dalam menciptakan lingkungan digital yang aman dan terpercaya.
+Saya adalah mahasiswa dari Politeknik Negeri Semarang dengan latar belakang dalam bidang Teknologi Informasi. Ketertarikan saya yang mendalam pada Cyber Security telah mendorong saya untuk mengejar pengetahuan dan keterampilan di bidang ini dengan semangat yang tinggi. Saya juga memiliki minat khusus dalam Desain Grafis Jaringan, di mana saya berfokus pada visualisasi data dan infrastruktur jaringan untuk mendukung keamanan digital. Saya berdedikasi untuk mengasah kemampuan saya dalam menghadapi tantangan kompleks di dunia Cyber Security dan Desain Grafis Jaringan. Selain itu, saya selalu berusaha mengikuti perkembangan terbaru dan berpartisipasi dalam berbagai proyek serta pelatihan yang dapat memperkuat kompetensi saya. Dengan tekad dan komitmen yang kuat, saya siap berkontribusi dalam menciptakan lingkungan digital yang aman dan terpercaya.
 
 ## Objective
 
-Perjalanan saya dalam ilmu komputer telah menumbuhkan minat yang besar dalam keamanan siber. Sekarang, saya sangat bersemangat untuk beralih ke bidang ini, dengan tujuan utama bergabung dengan tim keamanan siber di Google.
+Sebagai seorang mahasiswa yang sedang mendalami bidang Teknologi Informasi, saya bersemangat untuk mengaplikasikan pengetahuan dan keterampilan yang telah saya pelajari dalam lingkungan kerja nyata. Saya mencari kesempatan magang selama 5 bulan untuk mengembangkan pengalaman praktis, memperdalam pemahaman saya tentang industri, serta memberikan kontribusi yang berarti bagi perusahaan. Saya antusias untuk belajar dari para profesional, terlibat dalam proyek-proyek yang menantang, dan berkontribusi dalam mencapai tujuan perusahaan
 
 ## Skills
-
+### Cyber Security 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analisis dan Mitigasi Ancaman  | <a href="https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
 | Penetration Testing | <a href="https://github.com/NawafAbdulAziz77/Intrusion-Prevention-System-Intrusion-Detection-System-and-Honeypot">Intrusion Prevention System, Intrusion Detection System and Honeypot</a>|
 | Capstone Project Studi Independen | <a href="https://github.com/NawafAbdulAziz77/Capstone-Project-Studi-Independen"> Analisis Kerentanan Di Website Online Shop</a>|
 
-## Tools
+### Desain Grafis 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Editing Vidio  | <a href="https://www.youtube.com/@Nafuki">Youtube</a>|
+| Desain | <a href="https://drive.google.com/drive/folders/1fLSefMPtTpv0e2cOFGGFKv3GEA6vz8zr?usp=drive_link">LOGO Desain</a>|
+| Poster | <a href="https://drive.google.com/drive/folders/1fLSefMPtTpv0e2cOFGGFKv3GEA6vz8zr?usp=drive_link"> Poster Desain</a>|
 
+## Tools
 ### Network
 <div>
     <a href="https://www.kali.org/tools/wireshark/">
@@ -47,8 +53,21 @@ Perjalanan saya dalam ilmu komputer telah menumbuhkan minat yang besar dalam kea
     <a href="https://www.kali.org/tools/hydra/">
         <img src="https://img.shields.io/badge/-Hydra-FF4500?style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra Badge">
     </a>
-    
 </div>
+
+### Desain Grafis
+<div>
+    <a href="https://www.kali.org/tools/john/">
+        <img src="https://img.shields.io/badge/-Adobe_Premiere-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="Adobe Premiere">
+    </a>
+    <a href="https://www.kali.org/tools/john/">
+        <img src="https://img.shields.io/badge/-Capcut-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="Capcut">
+    </a>
+    <a href="https://www.kali.org/tools/hydra/">
+        <img src="https://img.shields.io/badge/-CorelDRAW-FF4500?style=for-the-badge&logo=hydra&logoColor=white" alt="CorelDRAW Badge">
+    </a>
+</div>
+
 
 ## Certifications
 <div>
@@ -74,3 +93,5 @@ Perjalanan saya dalam ilmu komputer telah menumbuhkan minat yang besar dalam kea
 ## Projects
 - Intrusion Prevention System, Intrusion Detection System and Honeypot
 - Analisis Kerentanan Di Website Online Shop
+- Membuat Logo Donat
+- Membuat Konten Vidio Youtube
